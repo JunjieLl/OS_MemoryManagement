@@ -185,7 +185,7 @@ export default {
           value: true,
         },
         {
-          label: "FCFS替换算法",
+          label: "FIFO替换算法",
           value: false,
         },
       ],

@@ -1,24 +1,8 @@
-# rammanagement
+## 内存管理项目
 
-## Project setup
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+1850668 李俊杰
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+项目地址：[查看](https://www.lijunjie.xin/MemoryManagement/#/pageallocation)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
